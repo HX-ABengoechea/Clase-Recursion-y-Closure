@@ -2,7 +2,7 @@
 
 // 2. Tiene que tener (al menos) una condición base o de cierre.
 
-// var num = 0;
+// var num = 4;
 
 // function LlamadaRecursiva() {
 //    if (num === 50) {

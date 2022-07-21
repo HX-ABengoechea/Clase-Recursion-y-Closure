@@ -25,3 +25,4 @@
 // var ahoraQueSoy = closure(5);
 
 // var nuevoResultado = ahoraQueSoy(2);
+// console.log(nuevoResultado);
